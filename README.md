@@ -1,6 +1,8 @@
 
 
-My :eyes: [![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.svg)](https://profile-counter.glitch.me/puyangzhao)
+## 👀 Visitor Count
+
+[![GitHub Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/puyangzhao)](https://github.com/puyangzhao)
 
 ## About Me 📚
 - 🌱 I am a PhD student in Biostatistics and Data Science at UT Health Science Center at Houston.
