@@ -1,6 +1,6 @@
 
 
-My :eyes: ![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.svg)Visitor.
+My :eyes: [![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.svg)](https://profile-counter.glitch.me/puyangzhao)
 
 ## About Me 📚
 - 🌱 I am a PhD student in Biostatistics and Data Science at UT Health Science Center at Houston.
