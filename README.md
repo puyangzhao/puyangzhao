@@ -1,8 +1,8 @@
 
 
-## 👀 Visitor Count
+## 👁️‍🗨️ Visitor Counter
 
-[![GitHub Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/puyangzhao)](https://github.com/puyangzhao)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/puyangzhao&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/puyangzhao)
 
 ## About Me 📚
 - 🌱 I am a PhD student in Biostatistics and Data Science at UT Health Science Center at Houston.
